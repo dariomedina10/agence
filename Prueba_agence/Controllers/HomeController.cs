@@ -15,7 +15,7 @@ namespace Prueba_agence.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description pag.";
 
             return View();
         }
